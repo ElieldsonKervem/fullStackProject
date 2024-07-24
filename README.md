@@ -5,7 +5,7 @@ Este projeto é uma aplicação FullStack para gerenciamento de tarefas, desenvo
 Instalação
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ElieldsonKervem/fullStackProject
 
 cd seu-repositorio
 npm install
